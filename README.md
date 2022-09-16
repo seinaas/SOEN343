@@ -13,4 +13,11 @@ Creating a Community Services Platform
 > TODO
 
 ## Team members
-Seina Assadian @seinaas
+Seina Assadian @seinaas  
+Luca Dallaire @lucadallaire  
+Maxime Joanisse @MaximeJoanisse  
+Nateshan Rasaiah @NateTheL8  
+Mehdi Samy Refik @SamRfk  
+Maria Rivas @MariaR001  
+Julian Zeitler @julianZeitler  
+
